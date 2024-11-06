@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cont{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    text-align: center;
+}
+.mini{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black; 
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+.mini1{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
